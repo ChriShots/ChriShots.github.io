@@ -66,7 +66,7 @@
 					<div class="intro-text">
 						<div class="intro-lead-in">Welcome To Our Page!</div>
 						<div class="intro-heading">ChriShots At Your Service</div>
-						<a href="https://chrishots.github.io/" class="page-scroll btn btn-xl">See For More</a>
+						<a href="https://see-for-more.github.io/" class="page-scroll btn btn-xl">See For More</a>
 					</div>
 				</div>
 			</div>

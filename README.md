@@ -204,7 +204,7 @@
 				<div class="row">
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="16">16</h2>
+							<h2 data-count="21">21</h2>
 							<h6>Clients</h6>
 						</div>
 					</div>
@@ -216,13 +216,13 @@
 					</div>
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="32">32</h2>
+							<h2 data-count="36">36</h2>
 							<h6>Project</h6>
 						</div>
 					</div>
 					<div class="col-md-3 mb-sm-30">
 						<div class="counter-item">
-							<h2 data-count="40">40</h2>
+							<h2 data-count="45">45</h2>
 							<h6>Food Promoting</h6>
 						</div>
 					</div>
